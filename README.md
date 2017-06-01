@@ -3,4 +3,4 @@ This is a small boilerplate that can be used for getting a simple project up and
 ### What does it include?
 * Basic directory structure
 * Default CSS and JavaScript files
-* Material Design Lite framework
+* [Material Design Lite](https://getmdl.io/index.html) framework
